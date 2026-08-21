@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Gurat Jatianom**.<br>
 
-Saya seorang **Full Stack Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang Mahasiswa di Universitas Amikom Yogyakarta.<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya juga memiliki skill **Full Stack Developer**.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gurat-jatianom-0151843a6/)ku ya.
 
