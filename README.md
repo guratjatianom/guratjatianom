@@ -1,7 +1,7 @@
 # Hi there, I'm Gurat Jatianom! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Student+at+Amikom+University;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=555&lines=Full+Stack+Developer;Student+at+Amikom+University+Yogyakarta;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
@@ -18,9 +18,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
 
 ---
@@ -32,4 +32,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guratjatianom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guratjatianom&layout=compact&theme=algolia"/>
 </a>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guratjatianom&theme=algolia&hide_border=true" alt="guratjatianom streak" />
 </p>
